@@ -9,7 +9,8 @@
     },
     "ranks": {
         "officer": "",
-        "guildMaster": ""
+        "guildMaster": "",
+        "member": ""
     },
     "db":"sqlite://db.sqlite3",
     "debug":"true"
