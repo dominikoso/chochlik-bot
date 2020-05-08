@@ -1,0 +1,16 @@
+{
+    "token":"",
+    "prefix":"$",
+    "categories": {
+        "eventsList": ""
+    },
+    "channels":{
+        "officerChannel":""
+    },
+    "ranks": {
+        "officer": "",
+        "guildMaster": ""
+    },
+    "db":"sqlite://db.sqlite3",
+    "debug":"true"
+}
