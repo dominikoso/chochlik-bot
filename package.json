@@ -1,0 +1,23 @@
+{
+  "name": "chochlik-bot",
+  "version": "0.0.1",
+  "description": "Chochlik is an MMO Guild companion created to help Guild Officer with management",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.2",
+    "discord.js": "^12.0.2",
+    "keyv": "^4.0.0",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "dominikoso",
+  "license": "ISC"
+}
